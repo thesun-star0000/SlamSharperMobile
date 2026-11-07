@@ -1,0 +1,7 @@
+*.iml
+.gradle/
+.idea/workspace.xml
+local.properties
+build/
+**/build/
+/native/Lemon-Studio-main/target/
